@@ -5,7 +5,9 @@ Following are the frameworks used for this project:
 1. Pandas, Numpy
 2. Pytorch, Tensorflow
 3. Jupyter Notebook, Spyder
-4. Resnet 3d (CNN & RNN), Seq2Seq (RNN)
+4. Resnet 3d (CNN & RNN)
+5. Resnet (2 + 1) D
+6. Seq2Seq (RNN)
 
 The project was done by following a conventional Data Science pipeline phases:
 1. Data Gathering, Cleaning, Wrangling
